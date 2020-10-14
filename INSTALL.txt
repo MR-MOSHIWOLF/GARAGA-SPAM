@@ -1,0 +1,12 @@
+# GARAGA-SPAM
+[GARAGA SPAMMER]
+
+pkg update && pkg upgrade
+pkg install python
+pkg install toilet
+git clone https://github.com/MR-MOSHIWOLF/GARAGA-SPAM
+cd GARAGA-SPAM
+bash garagaTOOLS33.sh
+
+
+[+] COPY TULISAN DI ATAS UNTUK INSTALL TOOLS [+]
